@@ -1,4 +1,4 @@
-### mongo-cpp
+### Mongo-cpp
 对Mongodb的简单封装，基于mongo-cxx-driver，使用简单~
 
 ### 构建项目
