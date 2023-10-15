@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/build/_deps/mongo-c-driver-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/third-party/mongo-cxx-driver/src/bsoncxx/third_party/_deps/core-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/mongo-cxx-driver" vcs="Git" />
+  </component>
+</project>
