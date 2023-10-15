@@ -7,6 +7,9 @@
 sudo apt install CMake
 ```
 
+## 项目依赖
+* mongodb-cxx-driver
+
 * 然后构建项目
 ```shell
 git clone https://github.com/na2co3hk/mongo-cpp.git
